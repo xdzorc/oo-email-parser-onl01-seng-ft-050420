@@ -10,8 +10,8 @@ class EmailAddressParser
   end
   
   def parse
-   a=@@address.uniq.flatten!
-   a
+   @address.
+   
      
   end
 end
